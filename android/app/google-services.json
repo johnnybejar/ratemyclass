@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "209348611333",
+    "project_id": "rate-my-class-4a24c",
+    "storage_bucket": "rate-my-class-4a24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209348611333:android:2e9c93fe8d06a442b7bb6c",
+        "android_client_info": {
+          "package_name": "com.example.rate_my_clas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209348611333-ujrcfrh6ti89p6ua9gf1m7nhi73k6jme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8tk1GOAd-mn4uMjdI74DPxd9DtYN2p_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209348611333-ujrcfrh6ti89p6ua9gf1m7nhi73k6jme.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209348611333-95c7315lnk174od3rtsajo95kbffjg6g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rateMyClas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
